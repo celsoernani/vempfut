@@ -27,7 +27,7 @@ const MenuConfig = {
       navigationOptions: {
           title: 'Home',
           tabBarIcon: ({tintColor}) => 
-              <Icon name= 'home' size= {30} color= {tintColor} />
+              <Icon name= 'home' size= {30}  />
       }
   }, 
   
